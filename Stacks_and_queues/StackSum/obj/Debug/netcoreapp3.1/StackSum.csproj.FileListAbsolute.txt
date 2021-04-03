@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\bin\Debug\netcoreapp3.1\StackSum.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\bin\Debug\netcoreapp3.1\StackSum.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\bin\Debug\netcoreapp3.1\StackSum.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\bin\Debug\netcoreapp3.1\StackSum.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\obj\Debug\netcoreapp3.1\StackSum.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\obj\Debug\netcoreapp3.1\StackSum.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\StackSum\obj\Debug\netcoreapp3.1\StackSum.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\bin\Debug\netcoreapp3.1\Hot_Potato.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\bin\Debug\netcoreapp3.1\Hot_Potato.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\bin\Debug\netcoreapp3.1\Hot_Potato.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\bin\Debug\netcoreapp3.1\Hot_Potato.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\bin\Debug\netcoreapp3.1\Hot_Potato.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\bin\Debug\netcoreapp3.1\Hot_Potato.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\obj\Debug\netcoreapp3.1\Hot_Potato.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\obj\Debug\netcoreapp3.1\Hot_Potato.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\obj\Debug\netcoreapp3.1\Hot_Potato.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\obj\Debug\netcoreapp3.1\Hot_Potato.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\obj\Debug\netcoreapp3.1\Hot_Potato.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Hot_Potato\obj\Debug\netcoreapp3.1\Hot_Potato.genruntimeconfig.cache

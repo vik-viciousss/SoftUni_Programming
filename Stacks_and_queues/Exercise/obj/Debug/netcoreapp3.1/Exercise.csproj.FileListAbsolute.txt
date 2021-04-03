@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\bin\Debug\netcoreapp3.1\Exercise.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\bin\Debug\netcoreapp3.1\Exercise.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\bin\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\bin\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\obj\Debug\netcoreapp3.1\Exercise.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache

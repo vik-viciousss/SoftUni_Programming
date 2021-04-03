@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\bin\Debug\netcoreapp3.1\Print_Even_Numbers.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\bin\Debug\netcoreapp3.1\Print_Even_Numbers.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\bin\Debug\netcoreapp3.1\Print_Even_Numbers.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\bin\Debug\netcoreapp3.1\Print_Even_Numbers.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\bin\Debug\netcoreapp3.1\Print_Even_Numbers.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\bin\Debug\netcoreapp3.1\Print_Even_Numbers.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\obj\Debug\netcoreapp3.1\Print_Even_Numbers.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\obj\Debug\netcoreapp3.1\Print_Even_Numbers.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\obj\Debug\netcoreapp3.1\Print_Even_Numbers.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\obj\Debug\netcoreapp3.1\Print_Even_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\obj\Debug\netcoreapp3.1\Print_Even_Numbers.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\obj\Debug\netcoreapp3.1\Print_Even_Numbers.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Print_Even_Numbers\obj\Debug\netcoreapp3.1\Print_Even_Numbers.genruntimeconfig.cache

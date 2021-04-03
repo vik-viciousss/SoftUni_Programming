@@ -1,0 +1,12 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\bin\Debug\netcoreapp3.1\Traffic_Jam.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\bin\Debug\netcoreapp3.1\Traffic_Jam.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\bin\Debug\netcoreapp3.1\Traffic_Jam.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\bin\Debug\netcoreapp3.1\Traffic_Jam.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\bin\Debug\netcoreapp3.1\Traffic_Jam.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\bin\Debug\netcoreapp3.1\Traffic_Jam.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\obj\Debug\netcoreapp3.1\Traffic_Jam.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\obj\Debug\netcoreapp3.1\Traffic_Jam.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\obj\Debug\netcoreapp3.1\Traffic_Jam.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\obj\Debug\netcoreapp3.1\Traffic_Jam.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\obj\Debug\netcoreapp3.1\Traffic_Jam.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_queues\Stacks_and_queues\Traffic_Jam\obj\Debug\netcoreapp3.1\Traffic_Jam.genruntimeconfig.cache
