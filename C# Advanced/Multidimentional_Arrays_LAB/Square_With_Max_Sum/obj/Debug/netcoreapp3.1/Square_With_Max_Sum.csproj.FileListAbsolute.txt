@@ -1,0 +1,12 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\bin\Debug\netcoreapp3.1\Square_With_Max_Sum.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\bin\Debug\netcoreapp3.1\Square_With_Max_Sum.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\bin\Debug\netcoreapp3.1\Square_With_Max_Sum.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\bin\Debug\netcoreapp3.1\Square_With_Max_Sum.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\bin\Debug\netcoreapp3.1\Square_With_Max_Sum.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\bin\Debug\netcoreapp3.1\Square_With_Max_Sum.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\obj\Debug\netcoreapp3.1\Square_With_Max_Sum.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\obj\Debug\netcoreapp3.1\Square_With_Max_Sum.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\obj\Debug\netcoreapp3.1\Square_With_Max_Sum.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\obj\Debug\netcoreapp3.1\Square_With_Max_Sum.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\obj\Debug\netcoreapp3.1\Square_With_Max_Sum.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Square_With_Max_Sum\obj\Debug\netcoreapp3.1\Square_With_Max_Sum.genruntimeconfig.cache

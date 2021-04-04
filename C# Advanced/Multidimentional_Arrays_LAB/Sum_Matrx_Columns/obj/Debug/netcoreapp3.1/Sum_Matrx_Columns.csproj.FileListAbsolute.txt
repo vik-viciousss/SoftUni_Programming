@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\bin\Debug\netcoreapp3.1\Sum_Matrx_Columns.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\bin\Debug\netcoreapp3.1\Sum_Matrx_Columns.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\bin\Debug\netcoreapp3.1\Sum_Matrx_Columns.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\bin\Debug\netcoreapp3.1\Sum_Matrx_Columns.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\bin\Debug\netcoreapp3.1\Sum_Matrx_Columns.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\bin\Debug\netcoreapp3.1\Sum_Matrx_Columns.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\obj\Debug\netcoreapp3.1\Sum_Matrx_Columns.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\obj\Debug\netcoreapp3.1\Sum_Matrx_Columns.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\obj\Debug\netcoreapp3.1\Sum_Matrx_Columns.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\obj\Debug\netcoreapp3.1\Sum_Matrx_Columns.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\obj\Debug\netcoreapp3.1\Sum_Matrx_Columns.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\obj\Debug\netcoreapp3.1\Sum_Matrx_Columns.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrx_Columns\obj\Debug\netcoreapp3.1\Sum_Matrx_Columns.genruntimeconfig.cache

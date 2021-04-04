@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\bin\Debug\netcoreapp3.1\Snake_Moves.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\bin\Debug\netcoreapp3.1\Snake_Moves.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\bin\Debug\netcoreapp3.1\Snake_Moves.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\bin\Debug\netcoreapp3.1\Snake_Moves.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\bin\Debug\netcoreapp3.1\Snake_Moves.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\bin\Debug\netcoreapp3.1\Snake_Moves.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\obj\Debug\netcoreapp3.1\Snake_Moves.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\obj\Debug\netcoreapp3.1\Snake_Moves.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\obj\Debug\netcoreapp3.1\Snake_Moves.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\obj\Debug\netcoreapp3.1\Snake_Moves.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\obj\Debug\netcoreapp3.1\Snake_Moves.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\obj\Debug\netcoreapp3.1\Snake_Moves.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Snake_Moves\obj\Debug\netcoreapp3.1\Snake_Moves.genruntimeconfig.cache

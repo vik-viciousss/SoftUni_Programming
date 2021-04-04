@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\bin\Debug\netcoreapp3.1\Primary_Diagonal.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\bin\Debug\netcoreapp3.1\Primary_Diagonal.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\bin\Debug\netcoreapp3.1\Primary_Diagonal.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\bin\Debug\netcoreapp3.1\Primary_Diagonal.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\bin\Debug\netcoreapp3.1\Primary_Diagonal.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\bin\Debug\netcoreapp3.1\Primary_Diagonal.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\obj\Debug\netcoreapp3.1\Primary_Diagonal.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\obj\Debug\netcoreapp3.1\Primary_Diagonal.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\obj\Debug\netcoreapp3.1\Primary_Diagonal.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\obj\Debug\netcoreapp3.1\Primary_Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\obj\Debug\netcoreapp3.1\Primary_Diagonal.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\obj\Debug\netcoreapp3.1\Primary_Diagonal.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Primary_Diagonal\obj\Debug\netcoreapp3.1\Primary_Diagonal.genruntimeconfig.cache

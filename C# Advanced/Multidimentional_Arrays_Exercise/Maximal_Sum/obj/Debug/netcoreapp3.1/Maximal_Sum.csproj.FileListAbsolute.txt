@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\bin\Debug\netcoreapp3.1\Maximal_Sum.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\bin\Debug\netcoreapp3.1\Maximal_Sum.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\bin\Debug\netcoreapp3.1\Maximal_Sum.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\bin\Debug\netcoreapp3.1\Maximal_Sum.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\bin\Debug\netcoreapp3.1\Maximal_Sum.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\bin\Debug\netcoreapp3.1\Maximal_Sum.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\obj\Debug\netcoreapp3.1\Maximal_Sum.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\obj\Debug\netcoreapp3.1\Maximal_Sum.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\obj\Debug\netcoreapp3.1\Maximal_Sum.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\obj\Debug\netcoreapp3.1\Maximal_Sum.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\obj\Debug\netcoreapp3.1\Maximal_Sum.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\obj\Debug\netcoreapp3.1\Maximal_Sum.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_Exercise\Multidimentional_Arrays_Exercise\Maximal_Sum\obj\Debug\netcoreapp3.1\Maximal_Sum.genruntimeconfig.cache

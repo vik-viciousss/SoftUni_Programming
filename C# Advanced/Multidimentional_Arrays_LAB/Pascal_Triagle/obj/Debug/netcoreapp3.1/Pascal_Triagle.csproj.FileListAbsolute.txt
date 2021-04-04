@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\bin\Debug\netcoreapp3.1\Pascal_Triagle.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\bin\Debug\netcoreapp3.1\Pascal_Triagle.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\bin\Debug\netcoreapp3.1\Pascal_Triagle.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\bin\Debug\netcoreapp3.1\Pascal_Triagle.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\bin\Debug\netcoreapp3.1\Pascal_Triagle.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\bin\Debug\netcoreapp3.1\Pascal_Triagle.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\obj\Debug\netcoreapp3.1\Pascal_Triagle.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\obj\Debug\netcoreapp3.1\Pascal_Triagle.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\obj\Debug\netcoreapp3.1\Pascal_Triagle.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\obj\Debug\netcoreapp3.1\Pascal_Triagle.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\obj\Debug\netcoreapp3.1\Pascal_Triagle.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\obj\Debug\netcoreapp3.1\Pascal_Triagle.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Pascal_Triagle\obj\Debug\netcoreapp3.1\Pascal_Triagle.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\bin\Debug\netcoreapp3.1\Sum_Matrix_Elements.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\bin\Debug\netcoreapp3.1\Sum_Matrix_Elements.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\bin\Debug\netcoreapp3.1\Sum_Matrix_Elements.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\bin\Debug\netcoreapp3.1\Sum_Matrix_Elements.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\bin\Debug\netcoreapp3.1\Sum_Matrix_Elements.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\bin\Debug\netcoreapp3.1\Sum_Matrix_Elements.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\obj\Debug\netcoreapp3.1\Sum_Matrix_Elements.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\obj\Debug\netcoreapp3.1\Sum_Matrix_Elements.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\obj\Debug\netcoreapp3.1\Sum_Matrix_Elements.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\obj\Debug\netcoreapp3.1\Sum_Matrix_Elements.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\obj\Debug\netcoreapp3.1\Sum_Matrix_Elements.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\obj\Debug\netcoreapp3.1\Sum_Matrix_Elements.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Multidimentional_Arrays_LAB\Multidimentional_Arrays_LAB\Sum_Matrix_Elements\obj\Debug\netcoreapp3.1\Sum_Matrix_Elements.genruntimeconfig.cache
