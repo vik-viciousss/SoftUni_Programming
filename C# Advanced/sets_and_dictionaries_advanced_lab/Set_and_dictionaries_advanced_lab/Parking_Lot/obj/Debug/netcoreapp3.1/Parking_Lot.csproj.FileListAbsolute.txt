@@ -1,0 +1,12 @@
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\bin\Debug\netcoreapp3.1\Parking_Lot.exe
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\bin\Debug\netcoreapp3.1\Parking_Lot.deps.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\bin\Debug\netcoreapp3.1\Parking_Lot.runtimeconfig.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\bin\Debug\netcoreapp3.1\Parking_Lot.runtimeconfig.dev.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\bin\Debug\netcoreapp3.1\Parking_Lot.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\bin\Debug\netcoreapp3.1\Parking_Lot.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\obj\Debug\netcoreapp3.1\Parking_Lot.AssemblyInfoInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\obj\Debug\netcoreapp3.1\Parking_Lot.AssemblyInfo.cs
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\obj\Debug\netcoreapp3.1\Parking_Lot.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\obj\Debug\netcoreapp3.1\Parking_Lot.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\obj\Debug\netcoreapp3.1\Parking_Lot.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Parking_Lot\obj\Debug\netcoreapp3.1\Parking_Lot.genruntimeconfig.cache

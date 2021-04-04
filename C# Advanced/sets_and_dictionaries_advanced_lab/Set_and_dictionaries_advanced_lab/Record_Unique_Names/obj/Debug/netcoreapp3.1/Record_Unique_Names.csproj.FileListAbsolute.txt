@@ -1,0 +1,13 @@
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\bin\Debug\netcoreapp3.1\Record_Unique_Names.exe
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\bin\Debug\netcoreapp3.1\Record_Unique_Names.deps.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\bin\Debug\netcoreapp3.1\Record_Unique_Names.runtimeconfig.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\bin\Debug\netcoreapp3.1\Record_Unique_Names.runtimeconfig.dev.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\bin\Debug\netcoreapp3.1\Record_Unique_Names.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\bin\Debug\netcoreapp3.1\Record_Unique_Names.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\obj\Debug\netcoreapp3.1\Record_Unique_Names.csprojAssemblyReference.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\obj\Debug\netcoreapp3.1\Record_Unique_Names.AssemblyInfoInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\obj\Debug\netcoreapp3.1\Record_Unique_Names.AssemblyInfo.cs
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\obj\Debug\netcoreapp3.1\Record_Unique_Names.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\obj\Debug\netcoreapp3.1\Record_Unique_Names.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\obj\Debug\netcoreapp3.1\Record_Unique_Names.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Record_Unique_Names\obj\Debug\netcoreapp3.1\Record_Unique_Names.genruntimeconfig.cache

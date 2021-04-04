@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cities_by_Continent_and_Country/1.0.0": {
+        "runtime": {
+          "Cities_by_Continent_and_Country.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cities_by_Continent_and_Country/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

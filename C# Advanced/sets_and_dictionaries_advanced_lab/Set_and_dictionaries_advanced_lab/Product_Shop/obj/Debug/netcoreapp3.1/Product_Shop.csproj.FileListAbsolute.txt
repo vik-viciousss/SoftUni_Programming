@@ -1,0 +1,13 @@
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\bin\Debug\netcoreapp3.1\Product_Shop.exe
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\bin\Debug\netcoreapp3.1\Product_Shop.deps.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\bin\Debug\netcoreapp3.1\Product_Shop.runtimeconfig.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\bin\Debug\netcoreapp3.1\Product_Shop.runtimeconfig.dev.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\bin\Debug\netcoreapp3.1\Product_Shop.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\bin\Debug\netcoreapp3.1\Product_Shop.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\obj\Debug\netcoreapp3.1\Product_Shop.csprojAssemblyReference.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\obj\Debug\netcoreapp3.1\Product_Shop.AssemblyInfoInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\obj\Debug\netcoreapp3.1\Product_Shop.AssemblyInfo.cs
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\obj\Debug\netcoreapp3.1\Product_Shop.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\obj\Debug\netcoreapp3.1\Product_Shop.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\obj\Debug\netcoreapp3.1\Product_Shop.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Product_Shop\obj\Debug\netcoreapp3.1\Product_Shop.genruntimeconfig.cache

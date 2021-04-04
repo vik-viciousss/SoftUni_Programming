@@ -1,0 +1,13 @@
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\bin\Debug\netcoreapp3.1\Average_Student_Grades.exe
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\bin\Debug\netcoreapp3.1\Average_Student_Grades.deps.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\bin\Debug\netcoreapp3.1\Average_Student_Grades.runtimeconfig.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\bin\Debug\netcoreapp3.1\Average_Student_Grades.runtimeconfig.dev.json
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\bin\Debug\netcoreapp3.1\Average_Student_Grades.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\bin\Debug\netcoreapp3.1\Average_Student_Grades.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\obj\Debug\netcoreapp3.1\Average_Student_Grades.csprojAssemblyReference.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\obj\Debug\netcoreapp3.1\Average_Student_Grades.AssemblyInfoInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\obj\Debug\netcoreapp3.1\Average_Student_Grades.AssemblyInfo.cs
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\obj\Debug\netcoreapp3.1\Average_Student_Grades.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\obj\Debug\netcoreapp3.1\Average_Student_Grades.dll
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\obj\Debug\netcoreapp3.1\Average_Student_Grades.pdb
+C:\Users\vikvi\source\repos\Set_and_dictionaries_advanced_lab\Average_Student_Grades\obj\Debug\netcoreapp3.1\Average_Student_Grades.genruntimeconfig.cache
