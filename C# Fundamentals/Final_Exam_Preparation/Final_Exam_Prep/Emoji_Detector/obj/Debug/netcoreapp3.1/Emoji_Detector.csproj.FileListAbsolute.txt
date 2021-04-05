@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\bin\Debug\netcoreapp3.1\Emoji_Detector.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\bin\Debug\netcoreapp3.1\Emoji_Detector.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\bin\Debug\netcoreapp3.1\Emoji_Detector.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\bin\Debug\netcoreapp3.1\Emoji_Detector.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\bin\Debug\netcoreapp3.1\Emoji_Detector.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\bin\Debug\netcoreapp3.1\Emoji_Detector.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\obj\Debug\netcoreapp3.1\Emoji_Detector.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\obj\Debug\netcoreapp3.1\Emoji_Detector.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\obj\Debug\netcoreapp3.1\Emoji_Detector.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\obj\Debug\netcoreapp3.1\Emoji_Detector.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\obj\Debug\netcoreapp3.1\Emoji_Detector.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\obj\Debug\netcoreapp3.1\Emoji_Detector.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam_Preparation\Final_Exam_Prep\Emoji_Detector\obj\Debug\netcoreapp3.1\Emoji_Detector.genruntimeconfig.cache

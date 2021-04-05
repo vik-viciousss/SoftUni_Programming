@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\bin\Debug\netcoreapp3.1\03.Problem.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\SoftUni_C#_Fundamentals\Final_Exam\Final_Exam\03.Problem\obj\Debug\netcoreapp3.1\03.Problem.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+Problem 02 Input:
+
+4
+$Request$: [73]|[115]|[105]|
+%Taggy$: [73]|[73]|[73]|
+%Taggy%: [118]|[97]|[108]|
+$Request$: 
+[73]|[115]|[105]|[32]|[75]|
+
+Problem 01 Input:
+
+AnotherMail.com
+Make Lower
+GetUsername
+Replace a
+Complete
+
+
+Problem 03 Input:
+
+New follower: george
+Like: george: 5
+Comment: george
+New follower: george
+New follower: john
+Comment: george
+Comment: john
+Comment: peter
+Log out
+
+Like: A: 3
+Comment: A
+New follower: B
+Blocked: A
+Comment: B
+Like: C: 5
+Like: D: 5
+Log out
