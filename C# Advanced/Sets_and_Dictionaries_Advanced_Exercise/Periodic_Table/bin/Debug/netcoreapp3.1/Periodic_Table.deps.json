@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Periodic_Table/1.0.0": {
+        "runtime": {
+          "Periodic_Table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Periodic_Table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

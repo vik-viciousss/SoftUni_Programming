@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.genruntimeconfig.cache

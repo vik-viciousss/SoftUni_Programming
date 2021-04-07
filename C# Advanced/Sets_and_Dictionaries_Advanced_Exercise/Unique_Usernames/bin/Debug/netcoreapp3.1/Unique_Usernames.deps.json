@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Unique_Usernames/1.0.0": {
+        "runtime": {
+          "Unique_Usernames.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unique_Usernames/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

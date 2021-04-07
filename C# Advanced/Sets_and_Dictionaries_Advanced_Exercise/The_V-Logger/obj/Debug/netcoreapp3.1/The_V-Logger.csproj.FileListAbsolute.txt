@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\obj\Debug\netcoreapp3.1\The_V-Logger.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\obj\Debug\netcoreapp3.1\The_V-Logger.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\obj\Debug\netcoreapp3.1\The_V-Logger.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\obj\Debug\netcoreapp3.1\The_V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\bin\Debug\netcoreapp3.1\The_V-Logger.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\bin\Debug\netcoreapp3.1\The_V-Logger.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\bin\Debug\netcoreapp3.1\The_V-Logger.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\bin\Debug\netcoreapp3.1\The_V-Logger.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\bin\Debug\netcoreapp3.1\The_V-Logger.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\bin\Debug\netcoreapp3.1\The_V-Logger.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\obj\Debug\netcoreapp3.1\The_V-Logger.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\obj\Debug\netcoreapp3.1\The_V-Logger.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Sets_and_dictionaries_advanced_exercise\Sets_and_Dictionaries_Advanced_Exercise\The_V-Logger\obj\Debug\netcoreapp3.1\The_V-Logger.genruntimeconfig.cache
