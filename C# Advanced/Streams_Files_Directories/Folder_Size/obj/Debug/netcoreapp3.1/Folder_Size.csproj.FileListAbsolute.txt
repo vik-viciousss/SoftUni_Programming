@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\bin\Debug\netcoreapp3.1\Folder_Size.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\bin\Debug\netcoreapp3.1\Folder_Size.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\bin\Debug\netcoreapp3.1\Folder_Size.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\bin\Debug\netcoreapp3.1\Folder_Size.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\bin\Debug\netcoreapp3.1\Folder_Size.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\bin\Debug\netcoreapp3.1\Folder_Size.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\obj\Debug\netcoreapp3.1\Folder_Size.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\obj\Debug\netcoreapp3.1\Folder_Size.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\obj\Debug\netcoreapp3.1\Folder_Size.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\obj\Debug\netcoreapp3.1\Folder_Size.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\obj\Debug\netcoreapp3.1\Folder_Size.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\obj\Debug\netcoreapp3.1\Folder_Size.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Folder_Size\obj\Debug\netcoreapp3.1\Folder_Size.genruntimeconfig.cache

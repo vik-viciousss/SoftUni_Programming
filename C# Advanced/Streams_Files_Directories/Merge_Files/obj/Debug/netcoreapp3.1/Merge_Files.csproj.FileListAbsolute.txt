@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\bin\Debug\netcoreapp3.1\Merge_Files.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\bin\Debug\netcoreapp3.1\Merge_Files.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\bin\Debug\netcoreapp3.1\Merge_Files.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\bin\Debug\netcoreapp3.1\Merge_Files.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\bin\Debug\netcoreapp3.1\Merge_Files.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\bin\Debug\netcoreapp3.1\Merge_Files.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\obj\Debug\netcoreapp3.1\Merge_Files.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\obj\Debug\netcoreapp3.1\Merge_Files.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\obj\Debug\netcoreapp3.1\Merge_Files.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\obj\Debug\netcoreapp3.1\Merge_Files.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\obj\Debug\netcoreapp3.1\Merge_Files.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\obj\Debug\netcoreapp3.1\Merge_Files.genruntimeconfig.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Merge_Files\obj\Debug\netcoreapp3.1\Merge_Files.csprojAssemblyReference.cache

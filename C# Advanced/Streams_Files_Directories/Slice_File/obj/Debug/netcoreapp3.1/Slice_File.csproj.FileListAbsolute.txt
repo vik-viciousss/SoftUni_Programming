@@ -1,0 +1,12 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\bin\Debug\netcoreapp3.1\Slice_File.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\bin\Debug\netcoreapp3.1\Slice_File.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\bin\Debug\netcoreapp3.1\Slice_File.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\bin\Debug\netcoreapp3.1\Slice_File.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\bin\Debug\netcoreapp3.1\Slice_File.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\bin\Debug\netcoreapp3.1\Slice_File.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\obj\Debug\netcoreapp3.1\Slice_File.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\obj\Debug\netcoreapp3.1\Slice_File.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\obj\Debug\netcoreapp3.1\Slice_File.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\obj\Debug\netcoreapp3.1\Slice_File.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\obj\Debug\netcoreapp3.1\Slice_File.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Slice_File\obj\Debug\netcoreapp3.1\Slice_File.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\bin\Debug\netcoreapp3.1\Odd_Lines.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\bin\Debug\netcoreapp3.1\Odd_Lines.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\bin\Debug\netcoreapp3.1\Odd_Lines.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\bin\Debug\netcoreapp3.1\Odd_Lines.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\bin\Debug\netcoreapp3.1\Odd_Lines.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\bin\Debug\netcoreapp3.1\Odd_Lines.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\obj\Debug\netcoreapp3.1\Odd_Lines.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\obj\Debug\netcoreapp3.1\Odd_Lines.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\obj\Debug\netcoreapp3.1\Odd_Lines.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\obj\Debug\netcoreapp3.1\Odd_Lines.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\obj\Debug\netcoreapp3.1\Odd_Lines.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\obj\Debug\netcoreapp3.1\Odd_Lines.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Streams_Files_and_Directories\Streams_Files_Directories\Odd_Lines\obj\Debug\netcoreapp3.1\Odd_Lines.genruntimeconfig.cache
