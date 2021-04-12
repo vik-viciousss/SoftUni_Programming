@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\bin\Debug\netcoreapp3.1\Sum_Numbers.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\bin\Debug\netcoreapp3.1\Sum_Numbers.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\bin\Debug\netcoreapp3.1\Sum_Numbers.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\bin\Debug\netcoreapp3.1\Sum_Numbers.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\bin\Debug\netcoreapp3.1\Sum_Numbers.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\bin\Debug\netcoreapp3.1\Sum_Numbers.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\obj\Debug\netcoreapp3.1\Sum_Numbers.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\obj\Debug\netcoreapp3.1\Sum_Numbers.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\obj\Debug\netcoreapp3.1\Sum_Numbers.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\obj\Debug\netcoreapp3.1\Sum_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\obj\Debug\netcoreapp3.1\Sum_Numbers.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\obj\Debug\netcoreapp3.1\Sum_Numbers.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Sum_Numbers\obj\Debug\netcoreapp3.1\Sum_Numbers.genruntimeconfig.cache

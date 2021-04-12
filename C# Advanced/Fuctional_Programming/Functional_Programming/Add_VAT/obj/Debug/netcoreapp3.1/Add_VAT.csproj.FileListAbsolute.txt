@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\bin\Debug\netcoreapp3.1\Add_VAT.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\bin\Debug\netcoreapp3.1\Add_VAT.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\bin\Debug\netcoreapp3.1\Add_VAT.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\bin\Debug\netcoreapp3.1\Add_VAT.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\bin\Debug\netcoreapp3.1\Add_VAT.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\bin\Debug\netcoreapp3.1\Add_VAT.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\obj\Debug\netcoreapp3.1\Add_VAT.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\obj\Debug\netcoreapp3.1\Add_VAT.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\obj\Debug\netcoreapp3.1\Add_VAT.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\obj\Debug\netcoreapp3.1\Add_VAT.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\obj\Debug\netcoreapp3.1\Add_VAT.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\obj\Debug\netcoreapp3.1\Add_VAT.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Fuctional_Programming\Functional_Programming\Add_VAT\obj\Debug\netcoreapp3.1\Add_VAT.genruntimeconfig.cache
