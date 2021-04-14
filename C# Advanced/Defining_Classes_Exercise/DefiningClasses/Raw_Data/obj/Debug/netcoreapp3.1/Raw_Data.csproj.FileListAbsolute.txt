@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\obj\Debug\netcoreapp3.1\Raw_Data.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\obj\Debug\netcoreapp3.1\Raw_Data.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\obj\Debug\netcoreapp3.1\Raw_Data.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\obj\Debug\netcoreapp3.1\Raw_Data.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\bin\Debug\netcoreapp3.1\Raw_Data.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\bin\Debug\netcoreapp3.1\Raw_Data.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\bin\Debug\netcoreapp3.1\Raw_Data.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\bin\Debug\netcoreapp3.1\Raw_Data.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\bin\Debug\netcoreapp3.1\Raw_Data.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\bin\Debug\netcoreapp3.1\Raw_Data.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\obj\Debug\netcoreapp3.1\Raw_Data.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\obj\Debug\netcoreapp3.1\Raw_Data.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Raw_Data\obj\Debug\netcoreapp3.1\Raw_Data.genruntimeconfig.cache

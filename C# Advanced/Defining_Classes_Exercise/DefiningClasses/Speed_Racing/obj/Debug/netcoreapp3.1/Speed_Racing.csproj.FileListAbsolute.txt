@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\bin\Debug\netcoreapp3.1\Speed_Racing.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\bin\Debug\netcoreapp3.1\Speed_Racing.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\bin\Debug\netcoreapp3.1\Speed_Racing.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\bin\Debug\netcoreapp3.1\Speed_Racing.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\bin\Debug\netcoreapp3.1\Speed_Racing.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\bin\Debug\netcoreapp3.1\Speed_Racing.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\obj\Debug\netcoreapp3.1\Speed_Racing.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\obj\Debug\netcoreapp3.1\Speed_Racing.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\obj\Debug\netcoreapp3.1\Speed_Racing.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\obj\Debug\netcoreapp3.1\Speed_Racing.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\obj\Debug\netcoreapp3.1\Speed_Racing.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\obj\Debug\netcoreapp3.1\Speed_Racing.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Speed_Racing\obj\Debug\netcoreapp3.1\Speed_Racing.genruntimeconfig.cache

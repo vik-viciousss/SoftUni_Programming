@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\bin\Debug\netcoreapp3.1\Date_Modifier_Problem.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\bin\Debug\netcoreapp3.1\Date_Modifier_Problem.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\bin\Debug\netcoreapp3.1\Date_Modifier_Problem.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\bin\Debug\netcoreapp3.1\Date_Modifier_Problem.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\bin\Debug\netcoreapp3.1\Date_Modifier_Problem.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\bin\Debug\netcoreapp3.1\Date_Modifier_Problem.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\obj\Debug\netcoreapp3.1\Date_Modifier_Problem.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\obj\Debug\netcoreapp3.1\Date_Modifier_Problem.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\obj\Debug\netcoreapp3.1\Date_Modifier_Problem.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\obj\Debug\netcoreapp3.1\Date_Modifier_Problem.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\obj\Debug\netcoreapp3.1\Date_Modifier_Problem.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\obj\Debug\netcoreapp3.1\Date_Modifier_Problem.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\DefiningClasses\Date_Modifier_Problem\obj\Debug\netcoreapp3.1\Date_Modifier_Problem.genruntimeconfig.cache

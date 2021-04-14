@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Defining_Classes_Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache
