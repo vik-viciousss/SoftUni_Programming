@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\bin\Debug\netcoreapp3.1\Basic_Queue_Operations.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\bin\Debug\netcoreapp3.1\Basic_Queue_Operations.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\bin\Debug\netcoreapp3.1\Basic_Queue_Operations.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\bin\Debug\netcoreapp3.1\Basic_Queue_Operations.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\bin\Debug\netcoreapp3.1\Basic_Queue_Operations.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\bin\Debug\netcoreapp3.1\Basic_Queue_Operations.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\obj\Debug\netcoreapp3.1\Basic_Queue_Operations.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\obj\Debug\netcoreapp3.1\Basic_Queue_Operations.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\obj\Debug\netcoreapp3.1\Basic_Queue_Operations.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\obj\Debug\netcoreapp3.1\Basic_Queue_Operations.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\obj\Debug\netcoreapp3.1\Basic_Queue_Operations.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\obj\Debug\netcoreapp3.1\Basic_Queue_Operations.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\stacks_and_Queues_Exercise\Basic_Stack_Operations\Basic_Queue_Operations\obj\Debug\netcoreapp3.1\Basic_Queue_Operations.genruntimeconfig.cache
