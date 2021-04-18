@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Stack_ProblemThree/1.0.0": {
+        "runtime": {
+          "Stack_ProblemThree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stack_ProblemThree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
