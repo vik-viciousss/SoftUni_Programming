@@ -1,0 +1,7 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SetCoverSkeleton\bin\Debug\SetCover.exe.config
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SetCoverSkeleton\bin\Debug\SetCover.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SetCoverSkeleton\bin\Debug\SetCover.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SetCoverSkeleton\obj\Debug\SetCover.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SetCoverSkeleton\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SetCoverSkeleton\obj\Debug\SetCover.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SetCoverSkeleton\obj\Debug\SetCover.pdb

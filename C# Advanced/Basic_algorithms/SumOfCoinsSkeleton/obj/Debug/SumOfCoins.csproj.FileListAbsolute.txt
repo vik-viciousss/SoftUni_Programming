@@ -1,0 +1,7 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SumOfCoinsSkeleton\obj\Debug\SumOfCoins.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SumOfCoinsSkeleton\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SumOfCoinsSkeleton\bin\Debug\SumOfCoins.exe.config
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SumOfCoinsSkeleton\bin\Debug\SumOfCoins.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SumOfCoinsSkeleton\bin\Debug\SumOfCoins.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SumOfCoinsSkeleton\obj\Debug\SumOfCoins.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\SumOfCoinsSkeleton\obj\Debug\SumOfCoins.pdb

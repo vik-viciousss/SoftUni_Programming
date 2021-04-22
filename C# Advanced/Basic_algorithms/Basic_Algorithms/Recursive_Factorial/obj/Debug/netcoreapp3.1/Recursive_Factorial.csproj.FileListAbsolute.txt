@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\bin\Debug\netcoreapp3.1\Recursive_Factorial.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\bin\Debug\netcoreapp3.1\Recursive_Factorial.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\bin\Debug\netcoreapp3.1\Recursive_Factorial.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\bin\Debug\netcoreapp3.1\Recursive_Factorial.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\bin\Debug\netcoreapp3.1\Recursive_Factorial.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\bin\Debug\netcoreapp3.1\Recursive_Factorial.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\obj\Debug\netcoreapp3.1\Recursive_Factorial.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\obj\Debug\netcoreapp3.1\Recursive_Factorial.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\obj\Debug\netcoreapp3.1\Recursive_Factorial.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\obj\Debug\netcoreapp3.1\Recursive_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\obj\Debug\netcoreapp3.1\Recursive_Factorial.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\obj\Debug\netcoreapp3.1\Recursive_Factorial.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Basic_algorithms\Basic_Algorithms\Recursive_Factorial\obj\Debug\netcoreapp3.1\Recursive_Factorial.genruntimeconfig.cache
