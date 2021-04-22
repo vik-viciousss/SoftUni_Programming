@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\bin\Debug\netcoreapp3.1\Bee.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\bin\Debug\netcoreapp3.1\Bee.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\bin\Debug\netcoreapp3.1\Bee.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\bin\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\obj\Debug\netcoreapp3.1\Bee.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\obj\Debug\netcoreapp3.1\Bee.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\obj\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Bee\obj\Debug\netcoreapp3.1\Bee.genruntimeconfig.cache

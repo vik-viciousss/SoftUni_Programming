@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\bin\Debug\netcoreapp3.1\Flower_Wreaths.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\bin\Debug\netcoreapp3.1\Flower_Wreaths.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\bin\Debug\netcoreapp3.1\Flower_Wreaths.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\bin\Debug\netcoreapp3.1\Flower_Wreaths.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\bin\Debug\netcoreapp3.1\Flower_Wreaths.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\bin\Debug\netcoreapp3.1\Flower_Wreaths.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\obj\Debug\netcoreapp3.1\Flower_Wreaths.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\obj\Debug\netcoreapp3.1\Flower_Wreaths.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\obj\Debug\netcoreapp3.1\Flower_Wreaths.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\obj\Debug\netcoreapp3.1\Flower_Wreaths.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\obj\Debug\netcoreapp3.1\Flower_Wreaths.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\obj\Debug\netcoreapp3.1\Flower_Wreaths.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_One\Exam_Prep\Flower_Wreaths\obj\Debug\netcoreapp3.1\Flower_Wreaths.genruntimeconfig.cache
