@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two_25_Oct_2020\03. Classroom_Skeleton\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

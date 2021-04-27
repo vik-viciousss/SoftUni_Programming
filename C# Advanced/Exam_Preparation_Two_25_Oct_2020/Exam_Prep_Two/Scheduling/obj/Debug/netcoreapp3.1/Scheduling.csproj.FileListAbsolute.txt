@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\c#_advanced\Exam_Preparation_Two\Exam_Prep_Two\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache
