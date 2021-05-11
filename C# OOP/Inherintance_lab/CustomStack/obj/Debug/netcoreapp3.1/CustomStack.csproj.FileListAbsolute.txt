@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_lab\Inherintance_lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache
