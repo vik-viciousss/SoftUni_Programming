@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Inheritance_Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
