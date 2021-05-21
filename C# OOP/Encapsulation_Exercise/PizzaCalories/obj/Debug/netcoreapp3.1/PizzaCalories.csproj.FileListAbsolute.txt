@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache

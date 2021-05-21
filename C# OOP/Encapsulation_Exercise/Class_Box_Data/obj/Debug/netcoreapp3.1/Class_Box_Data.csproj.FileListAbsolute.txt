@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\bin\Debug\netcoreapp3.1\Class_Box_Data.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\bin\Debug\netcoreapp3.1\Class_Box_Data.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\bin\Debug\netcoreapp3.1\Class_Box_Data.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\bin\Debug\netcoreapp3.1\Class_Box_Data.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\bin\Debug\netcoreapp3.1\Class_Box_Data.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\bin\Debug\netcoreapp3.1\Class_Box_Data.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\obj\Debug\netcoreapp3.1\Class_Box_Data.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\obj\Debug\netcoreapp3.1\Class_Box_Data.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\obj\Debug\netcoreapp3.1\Class_Box_Data.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\obj\Debug\netcoreapp3.1\Class_Box_Data.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\obj\Debug\netcoreapp3.1\Class_Box_Data.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\obj\Debug\netcoreapp3.1\Class_Box_Data.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\Class_Box_Data\obj\Debug\netcoreapp3.1\Class_Box_Data.genruntimeconfig.cache

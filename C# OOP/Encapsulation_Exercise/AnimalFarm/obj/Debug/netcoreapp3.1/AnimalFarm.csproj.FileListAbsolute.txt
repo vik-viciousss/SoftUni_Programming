@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\New folder\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
