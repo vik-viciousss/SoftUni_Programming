@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
