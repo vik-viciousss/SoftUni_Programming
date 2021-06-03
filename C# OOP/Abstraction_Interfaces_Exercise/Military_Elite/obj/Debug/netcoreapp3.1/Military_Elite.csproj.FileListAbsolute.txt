@@ -1,0 +1,13 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.exe
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.runtimeconfig.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.runtimeconfig.dev.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.csprojAssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Interfaces_Abstraction_Exercise\Abstraction_Interfaces_Exercise\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.genruntimeconfig.cache

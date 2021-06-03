@@ -4,20 +4,13 @@ using System.Text;
 
 namespace Telephony
 {
-    public class StationaryPhone : ICallable
+    public class StationaryPhone : Phone, ICallable
     {
-        public void Call(string number)
+        public override string Call(string number)
         {
-            foreach (var item in number)
-            {
-                if (!char.IsDigit(item))
-                {
-                    Console.WriteLine("Invalid number!");
-                    return;
-                }
-            }
+            Validator.ThrowIfNumberIsInvalid(number);
 
-            Console.WriteLine($"Dialing... {number}");
+            return $"Dialing... {number}";
         }
     }
 }

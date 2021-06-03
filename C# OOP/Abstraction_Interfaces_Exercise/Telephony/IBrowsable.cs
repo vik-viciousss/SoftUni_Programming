@@ -6,6 +6,6 @@ namespace Telephony
 {
     public interface IBrowsable : ICallable
     {
-        void Browse(string website);
+        string Browse(string website);
     }
 }
