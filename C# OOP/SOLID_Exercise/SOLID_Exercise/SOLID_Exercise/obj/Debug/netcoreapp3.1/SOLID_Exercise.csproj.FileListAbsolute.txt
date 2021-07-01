@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\bin\Debug\netcoreapp3.1\SOLID_Exercise.exe
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\bin\Debug\netcoreapp3.1\SOLID_Exercise.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\bin\Debug\netcoreapp3.1\SOLID_Exercise.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\bin\Debug\netcoreapp3.1\SOLID_Exercise.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\bin\Debug\netcoreapp3.1\SOLID_Exercise.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\bin\Debug\netcoreapp3.1\SOLID_Exercise.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\obj\Debug\netcoreapp3.1\SOLID_Exercise.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\obj\Debug\netcoreapp3.1\SOLID_Exercise.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\obj\Debug\netcoreapp3.1\SOLID_Exercise.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\obj\Debug\netcoreapp3.1\SOLID_Exercise.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\obj\Debug\netcoreapp3.1\SOLID_Exercise.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\obj\Debug\netcoreapp3.1\SOLID_Exercise.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Solid_Exercise\SOLID_Exercise\SOLID_Exercise\obj\Debug\netcoreapp3.1\SOLID_Exercise.genruntimeconfig.cache
