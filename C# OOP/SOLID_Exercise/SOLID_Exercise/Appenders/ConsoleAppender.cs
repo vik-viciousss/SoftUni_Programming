@@ -15,6 +15,11 @@ namespace SOLID_Exercise.Appenders
 
         public override void Append(string date, ReportLevel reportLevel, string message)
         {
+            if (!this.CanAppend(reportLevel))
+            {
+                return;
+            }
+
             string content = string.Format(this.layout.Template, date, reportLevel, message);
 
             Console.WriteLine(content);

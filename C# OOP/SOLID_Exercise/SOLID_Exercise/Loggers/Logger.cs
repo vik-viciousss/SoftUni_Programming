@@ -8,21 +8,44 @@ namespace SOLID_Exercise.Loggers
 {
     public class Logger : ILogger
     {
-        private IAppender appender;
+        private readonly IAppender[] appenders;
 
-        public Logger(IAppender appender)
+        public Logger(params IAppender[] appenders)
         {
-            this.appender = appender;
+            this.appenders = appenders;
         }
 
         public void Error(string date, string message)
         {
-            this.appender.Append(date, ReportLevel.Info, message);
+            this.AppendToAppenders(date, ReportLevel.Error, message);
         }
 
         public void Info(string date, string message)
         {
-            this.appender.Append(date, ReportLevel.Info, message);
+            this.AppendToAppenders(date, ReportLevel.Info, message);
+        }
+
+        public void Fatal(string date, string message)
+        {
+            this.AppendToAppenders(date, ReportLevel.Fatal, message);
+        }
+
+        public void Critical(string date, string message)
+        {
+            this.AppendToAppenders(date, ReportLevel.Critical, message);
+        }
+
+        public void Warning(string date, string message)
+        {
+            this.AppendToAppenders(date, ReportLevel.Warning, message);
+        }
+
+        private void AppendToAppenders(string date, ReportLevel reportLevel, string message)
+        {
+            foreach (var appender in this.appenders)
+            {
+                appender.Append(date, reportLevel, message);
+            }
         }
     }
 }
