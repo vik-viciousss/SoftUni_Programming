@@ -1,0 +1,12 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\obj\Debug\netcoreapp3.1\FootballTeamGenerator_02.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\obj\Debug\netcoreapp3.1\FootballTeamGenerator_02.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\obj\Debug\netcoreapp3.1\FootballTeamGenerator_02.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\bin\Debug\netcoreapp3.1\FootballTeamGenerator_02.exe
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\bin\Debug\netcoreapp3.1\FootballTeamGenerator_02.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\bin\Debug\netcoreapp3.1\FootballTeamGenerator_02.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\bin\Debug\netcoreapp3.1\FootballTeamGenerator_02.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\bin\Debug\netcoreapp3.1\FootballTeamGenerator_02.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\bin\Debug\netcoreapp3.1\FootballTeamGenerator_02.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\obj\Debug\netcoreapp3.1\FootballTeamGenerator_02.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\obj\Debug\netcoreapp3.1\FootballTeamGenerator_02.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator_02\obj\Debug\netcoreapp3.1\FootballTeamGenerator_02.genruntimeconfig.cache

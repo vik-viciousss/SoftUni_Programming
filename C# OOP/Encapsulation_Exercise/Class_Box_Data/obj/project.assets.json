@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\C#_OOP\\Encapsulation_Exercise\\Encapsulation_Exercise\\Class_Box_Data\\Class_Box_Data.csproj",
+      "projectUniqueName": "D:\\code\\ProjectsVisualStudio\\C#_OOP\\Encapsulation_Exercise\\Encapsulation_Exercise\\Class_Box_Data\\Class_Box_Data.csproj",
       "projectName": "Class_Box_Data",
-      "projectPath": "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\C#_OOP\\Encapsulation_Exercise\\Encapsulation_Exercise\\Class_Box_Data\\Class_Box_Data.csproj",
+      "projectPath": "D:\\code\\ProjectsVisualStudio\\C#_OOP\\Encapsulation_Exercise\\Encapsulation_Exercise\\Class_Box_Data\\Class_Box_Data.csproj",
       "packagesPath": "C:\\Users\\vikvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\C#_OOP\\Encapsulation_Exercise\\Encapsulation_Exercise\\Class_Box_Data\\obj\\",
+      "outputPath": "D:\\code\\ProjectsVisualStudio\\C#_OOP\\Encapsulation_Exercise\\Encapsulation_Exercise\\Class_Box_Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
