@@ -11,16 +11,3 @@ C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encaps
 C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
 C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
 C:\Users\vikvi\Desktop\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.AssemblyReference.cache
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
-D:\code\ProjectsVisualStudio\C#_OOP\Encapsulation_Exercise\Encapsulation_Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache
