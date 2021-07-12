@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reflection_and_Attributes_LAB/1.0.0": {
+        "runtime": {
+          "Reflection_and_Attributes_LAB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reflection_and_Attributes_LAB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

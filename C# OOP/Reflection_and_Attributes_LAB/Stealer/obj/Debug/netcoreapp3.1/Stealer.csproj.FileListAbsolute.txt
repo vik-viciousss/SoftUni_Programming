@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache
