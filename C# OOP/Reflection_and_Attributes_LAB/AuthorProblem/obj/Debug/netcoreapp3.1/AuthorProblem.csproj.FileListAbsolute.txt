@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_and_Attributes_LAB\Reflection_and_Attributes_LAB\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
