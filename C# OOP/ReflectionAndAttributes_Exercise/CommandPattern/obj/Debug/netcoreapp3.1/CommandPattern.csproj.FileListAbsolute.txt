@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Reflection_Attributes_Exercise\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache
