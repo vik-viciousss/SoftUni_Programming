@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
