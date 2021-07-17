@@ -1,0 +1,8 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
