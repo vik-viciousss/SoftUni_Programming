@@ -93,3 +93,9 @@ D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.T
 D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\obj\Debug\netcoreapp3.1\Skeleton.Tests.dll
 D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\obj\Debug\netcoreapp3.1\Skeleton.Tests.pdb
 D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\obj\Debug\netcoreapp3.1\Skeleton.Tests.genruntimeconfig.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_LAB\Unit_Testing_LAB\Skeleton.Tests\bin\Debug\netcoreapp3.1\Skeleton.pdb
