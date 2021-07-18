@@ -1,0 +1,9 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
