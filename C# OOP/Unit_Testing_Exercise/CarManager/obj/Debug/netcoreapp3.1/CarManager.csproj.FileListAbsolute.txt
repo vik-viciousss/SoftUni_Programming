@@ -1,0 +1,9 @@
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\code\ProjectsVisualStudio\C#_OOP\Unit_Testing_Exervise\Unit_Testing_Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
