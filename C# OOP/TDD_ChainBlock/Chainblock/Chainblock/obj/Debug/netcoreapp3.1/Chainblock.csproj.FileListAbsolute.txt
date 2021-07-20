@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.exe
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.dll
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.dll
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\TDD_ChainBlock\Chainblock\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.genruntimeconfig.cache
