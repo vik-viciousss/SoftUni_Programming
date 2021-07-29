@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\bin\Debug\netcoreapp3.1\Custom_DI_Workshop.exe
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\bin\Debug\netcoreapp3.1\Custom_DI_Workshop.deps.json
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\bin\Debug\netcoreapp3.1\Custom_DI_Workshop.runtimeconfig.json
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\bin\Debug\netcoreapp3.1\Custom_DI_Workshop.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\bin\Debug\netcoreapp3.1\Custom_DI_Workshop.dll
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\bin\Debug\netcoreapp3.1\Custom_DI_Workshop.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\obj\Debug\netcoreapp3.1\Custom_DI_Workshop.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\obj\Debug\netcoreapp3.1\Custom_DI_Workshop.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\obj\Debug\netcoreapp3.1\Custom_DI_Workshop.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\obj\Debug\netcoreapp3.1\Custom_DI_Workshop.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\obj\Debug\netcoreapp3.1\Custom_DI_Workshop.dll
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\obj\Debug\netcoreapp3.1\Custom_DI_Workshop.pdb
+D:\code\ProjectsVisualStudio\C#_OOP\DI_workshop\Custom_DI_Workshop\Custom_DI_Workshop\obj\Debug\netcoreapp3.1\Custom_DI_Workshop.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+Game started
+Reading key
+Reading line
+Game ended
