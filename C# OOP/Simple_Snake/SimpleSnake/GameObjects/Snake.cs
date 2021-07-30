@@ -40,7 +40,7 @@ namespace SimpleSnake.GameObjects
             this.food[2] = new FoodAsterisk(this.wall);
         }
 
-        private bool IsMoving(Point direction)
+        public bool IsMoving(Point direction)
         {
             Point currentSnakeHead = this.snakeElements.Last();
 
