@@ -8,7 +8,7 @@ namespace EasterRaces.Models.Cars.Entities
 {
     public abstract class Car : ICar
     {
-        private const int modeMinValue = 4;
+        private const int modelMinValue = 4;
 
         private string model;
         private int horsePower;
@@ -17,11 +17,13 @@ namespace EasterRaces.Models.Cars.Entities
 
         public Car(string model, int horsePower, double cubicCentimeters, int minHorsePower, int maxHorsePower)
         {
+            this.minHorsePower = minHorsePower;
+            this.maxHorsePower = maxHorsePower;
+
+
             this.Model = model;
             this.HorsePower = horsePower;
             this.CubicCentimeters = cubicCentimeters;
-            this.minHorsePower = minHorsePower;
-            this.maxHorsePower = maxHorsePower;
         }
 
         public string Model
@@ -29,9 +31,9 @@ namespace EasterRaces.Models.Cars.Entities
             get => this.model;
             private set
             {
-                if (string.IsNullOrWhiteSpace(value) || value.Length < modeMinValue)
+                if (string.IsNullOrWhiteSpace(value) || value.Length < modelMinValue)
                 {
-                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidModel, value, modeMinValue));
+                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidModel, value, modelMinValue));
                 }
 
                 this.model = value;
