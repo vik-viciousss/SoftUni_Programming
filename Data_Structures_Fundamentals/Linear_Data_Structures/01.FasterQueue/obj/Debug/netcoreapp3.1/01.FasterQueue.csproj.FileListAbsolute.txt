@@ -1,0 +1,9 @@
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+D:\code\ProjectsVisualStudio\Data_Structures_Fundamentals\linear_Data_Structures_Exrcise\Linear_Data_Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb
